@@ -1,2 +1,0 @@
-Java is General purpose programming lanhuage.
-Java have 12 features.
